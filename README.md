@@ -1,87 +1,205 @@
 <div align="center">
 
-# 👋 Hi, I'm Dileep Kumar Routhu
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Dileep+Kumar+Routhu;Full+Stack+Developer;Python+%7C+Django+%7C+AWS;Data+Analytics+Enthusiast;Building+Technology+That+Solves+Real+Problems" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+Django+Developer;AWS+Cloud+Enthusiast;Data+Analyst;Building+Real+World+Solutions" />
+# 👋 Hello, I'm Dileep Kumar Routhu
 
-<img src="https://komarev.com/ghpvc/?username=dileeproxx44-cpu&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
+### 🚀 Full Stack Developer | Python Django Developer | AWS Learner | Data Analytics Enthusiast
+
+<img src="https://komarev.com/ghpvc/?username=dileeproxx44-cpu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-💻 Full Stack Developer
+🎓 Computer Science Engineering Student
 
-⚡ Backend Engineer (Python + Django)
+🏫 Sri Sivani College of Engineering (2023 – 2027)
 
-☁️ AWS Cloud Enthusiast
+💻 Passionate about Full Stack Development
 
-📊 Data Analyst
+☁️ Exploring AWS Cloud Technologies
 
-🎯 Passionate about building scalable applications and solving real-world problems.
+📊 Interested in Data Analytics & Machine Learning
 
-🌱 Currently Learning:
-- Advanced AWS
-- Machine Learning
-- DevOps
-- System Design
+🚀 Building real-world projects to solve practical problems
+
+🏆 Active participant in internships, workshops, certifications, and hackathons
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-## Frontend
+## Programming Languages
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/>
-
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
 </p>
 
-## Backend
+## Frameworks & Technologies
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask"/>
-
+<img src="https://skillicons.dev/icons?i=django,bootstrap"/>
 </p>
 
 ## Database
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-
 </p>
 
-## Cloud & DevOps
+## Cloud & Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
-
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode"/>
 </p>
 
 ## Data Analytics
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- Tableau
-- Power BI
-- SQL
+* Pandas
+* NumPy
+* Data Cleaning
+* Exploratory Data Analysis
+* SQL
+* Data Visualization
 
 ---
 
-# 📊 GitHub Statistics
+# ☁️ AWS Journey
+
+### AWS APAC Solutions Architecture Job Simulation
+
+🏅 Completed AWS APAC Solutions Architecture Job Simulation (Forage)
+
+### Currently Learning
+
+✅ EC2
+
+✅ S3
+
+✅ IAM
+
+✅ RDS
+
+✅ Cloud Architecture Basics
+
+🎯 Goal: AWS Certified Cloud Practitioner
+
+🎯 Goal: AWS Solutions Architect Associate
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 Diabetes Early Warning System
+
+A machine learning-based healthcare project designed to predict diabetes risk using patient health parameters.
+
+### Technologies Used
+
+* Python
+* Django
+* Pandas
+* Machine Learning
+* Data Analysis
+
+### Key Features
+
+✔ Disease Risk Prediction
+
+✔ Data Analysis
+
+✔ User-Friendly Interface
+
+✔ Healthcare Decision Support
+
+🔗 Repository
+
+https://github.com/dileeproxx44-cpu/Diabetes-early-warning-system
+
+---
+
+## 🎵 Music Web Application
+
+A responsive music player web application with modern UI design.
+
+### Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
+### Features
+
+✔ Music Playback
+
+✔ Responsive Design
+
+✔ Interactive Interface
+
+✔ Modern Frontend Development
+
+🔗 Repository
+
+https://github.com/dileeproxx44-cpu/Music
+
+---
+
+## 🏥 Hospital Management System
+
+Currently building a comprehensive hospital management platform featuring:
+
+* Patient Management
+* Doctor Management
+* Appointment Booking
+* Online Consultation
+* Prescription Management
+* Admin Dashboard
+
+### Planned Technologies
+
+* Django
+* PostgreSQL
+* HTML
+* CSS
+* JavaScript
+* AWS
+
+---
+
+# 📚 Certifications & Learning
+
+🏆 AWS APAC Solutions Architecture Job Simulation
+
+🏆 AI & Data Analytics Internship Experience
+
+🏆 TCS iON Career Edge Program
+
+🏆 IBM SkillsBuild Learning Programs
+
+🏆 Data Science & Business Analytics Internship Experience
+
+---
+
+# 🎯 Current Focus
+
+🔹 Full Stack Web Development
+
+🔹 Django Backend Development
+
+🔹 AWS Cloud Computing
+
+🔹 Data Analytics
+
+🔹 Machine Learning Fundamentals
+
+🔹 System Design
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
 
@@ -103,61 +221,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dileeproxx44-cpu&theme=algolia&column=4"/>
-
-</div>
-
----
-
-# 💼 Featured Projects
-
-## 🏥 Diabetes Early Warning System
-
-### Tech Stack
-
-Python • Django • Pandas • Machine Learning
-
-### Features
-
-✔ Diabetes Prediction
-
-✔ Health Data Analysis
-
-✔ Machine Learning Model
-
-✔ Visualization Dashboard
-
-🔗 Repository:
-https://github.com/dileeproxx44-cpu/Diabetes-early-warning-system
-
----
-
-## 🎵 Music Web Application
-
-### Tech Stack
-
-HTML • CSS • JavaScript
-
-### Features
-
-✔ Responsive Design
-
-✔ Interactive Music Player
-
-✔ Modern User Interface
-
-✔ Mobile Friendly
-
-🔗 Repository:
-https://github.com/dileeproxx44-cpu/Music
-
----
-
-# 📈 Coding Activity
+# 📊 Contribution Graph
 
 <div align="center">
 
@@ -167,74 +231,13 @@ https://github.com/dileeproxx44-cpu/Music
 
 ---
 
-# 🎯 Professional Expertise
+# 🐍 Contribution Snake
 
-<table>
-<tr>
-<td align="center">
+<div align="center">
 
-### 🌐 Frontend
+![Snake animation](https://github.com/dileeproxx44-cpu/dileeproxx44-cpu/blob/output/github-contribution-grid-snake.svg)
 
-HTML5
-
-CSS3
-
-JavaScript
-
-React
-
-Bootstrap
-
-</td>
-
-<td align="center">
-
-### ⚙ Backend
-
-Python
-
-Django
-
-REST APIs
-
-Authentication
-
-PostgreSQL
-
-</td>
-
-<td align="center">
-
-### ☁ Cloud
-
-AWS EC2
-
-AWS S3
-
-AWS RDS
-
-Cloud Deployment
-
-Linux
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📚 Current Focus
-
-🚀 Full Stack Development
-
-☁ AWS Cloud Solutions
-
-📊 Data Analytics
-
-🤖 Machine Learning
-
-🏗 System Design
+</div>
 
 ---
 
@@ -258,26 +261,18 @@ Linux
 
 ---
 
-<div align="center">
+# 💡 Philosophy
 
-## 🚀 Open To Work
-
-### Full Stack Developer
-
-### Python Django Developer
-
-### Backend Engineer
-
-### Data Analyst
-
-⭐ If you like my work, consider giving a star to my repositories!
-
-</div>
+> "Start where you are. Use what you have. Do what you can."
 
 ---
 
 <div align="center">
 
-# 💙 "Code. Learn. Build. Repeat."
+## 🚀 Open to Internships, Collaborations & Learning Opportunities
+
+### Building. Learning. Improving. Every Day.
+
+⭐ Thank you for visiting my profile!
 
 </div>
