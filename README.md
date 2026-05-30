@@ -1,506 +1,283 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=💼+Dileep+Kumar+Routhu;Full+Stack+Developer+|+Backend+Engineer+|+Data+Analyst;Building+Solutions+Across+Frontend+Backend+%26+Data" alt="Typing SVG" />
-</div>
 
-<style>
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
+# 👋 Hi, I'm Dileep Kumar Routhu
 
-  @keyframes slideInLeft {
-    from {
-      opacity: 0;
-      transform: translateX(-50px);
-    }
-    to {
-      opacity: 1;
-      transform: translateX(0);
-    }
-  }
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+Django+Developer;AWS+Cloud+Enthusiast;Data+Analyst;Building+Real+World+Solutions" />
 
-  @keyframes slideInRight {
-    from {
-      opacity: 0;
-      transform: translateX(50px);
-    }
-    to {
-      opacity: 1;
-      transform: translateX(0);
-    }
-  }
-
-  @keyframes bounce {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-  }
-
-  @keyframes pulse {
-    0%, 100% {
-      opacity: 1;
-    }
-    50% {
-      opacity: 0.7;
-    }
-  }
-
-  @keyframes glow {
-    0%, 100% {
-      box-shadow: 0 0 5px rgba(0, 217, 255, 0.3);
-    }
-    50% {
-      box-shadow: 0 0 20px rgba(0, 217, 255, 0.6);
-    }
-  }
-
-  @keyframes shimmer {
-    0% {
-      background-position: -1000px 0;
-    }
-    100% {
-      background-position: 1000px 0;
-    }
-  }
-</style>
-
----
-
-<div align="center" style="animation: fadeIn 1s ease-in;">
-  <img src="https://komarev.com/ghpvc/?username=dileeproxx44-cpu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" style="animation: pulse 2s infinite;" />
-</div>
-
----
-
-# <div align="center" style="animation: slideInLeft 0.8s ease-out;">💫 About Me</div>
-
-<div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #00D9FF; animation: glow 2s infinite;">
-
-I am a **versatile technology professional** with expertise across multiple domains:
-
-<div style="margin-top: 15px;">
-
-🌐 **Web Developer** - Building responsive, interactive web applications  
-🔧 **Backend Engineer** - Python, Django, and AWS cloud infrastructure specialist  
-📊 **Data Analyst** - Transforming data into actionable insights
-
-</div>
-
-This combined portfolio demonstrates my ability to work across the **full technology stack**.
+<img src="https://komarev.com/ghpvc/?username=dileeproxx44-cpu&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# <div align="center" style="animation: slideInRight 0.8s ease-out;">🎯 Expertise Matrix</div>
+# 🚀 About Me
 
-<table align="center" style="border-collapse: collapse; width: 90%; margin: 20px auto; animation: fadeIn 1.2s ease-in;">
-<tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); animation: fadeIn 1.3s ease-in;">
-  <td style="padding: 15px; border: 2px solid #00D9FF; text-align: center; border-radius: 8px 0 0 0; animation: slideInLeft 0.8s ease-out;">
-    <h3 style="color: #00D9FF; margin: 0;">🌐 WEB DEVELOPER</h3>
-    <div style="color: #fff; font-size: 12px; margin-top: 10px;">
-      React • Vue.js • JavaScript • HTML5 • CSS3<br/>
-      <span style="color: #FFD700;">⭐⭐⭐⭐⭐</span>
-    </div>
-  </td>
-  <td style="padding: 15px; border: 2px solid #00D9FF; text-align: center; animation: slideInLeft 0.9s ease-out;">
-    <h3 style="color: #00D9FF; margin: 0;">🔧 BACKEND + AWS</h3>
-    <div style="color: #fff; font-size: 12px; margin-top: 10px;">
-      Django • Python • AWS • PostgreSQL • Docker<br/>
-      <span style="color: #FFD700;">⭐⭐⭐⭐⭐</span>
-    </div>
-  </td>
-  <td style="padding: 15px; border: 2px solid #00D9FF; text-align: center; border-radius: 0 8px 0 0; animation: slideInLeft 1s ease-out;">
-    <h3 style="color: #00D9FF; margin: 0;">📊 DATA ANALYST</h3>
-    <div style="color: #fff; font-size: 12px; margin-top: 10px;">
-      Python • SQL • Pandas • Tableau • Analytics<br/>
-      <span style="color: #FFD700;">⭐⭐⭐⭐</span>
-    </div>
-  </td>
-</tr>
-</table>
+💻 Full Stack Developer
+
+⚡ Backend Engineer (Python + Django)
+
+☁️ AWS Cloud Enthusiast
+
+📊 Data Analyst
+
+🎯 Passionate about building scalable applications and solving real-world problems.
+
+🌱 Currently Learning:
+- Advanced AWS
+- Machine Learning
+- DevOps
+- System Design
 
 ---
 
-# <div align="center" style="color: #00D9FF; animation: bounce 1s infinite;">🌐 ROLE 1: WEB DEVELOPER</div>
+# 🛠️ Tech Stack
 
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.05) 0%, rgba(100, 200, 255, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 5px solid #00D9FF; animation: slideInLeft 0.8s ease-out;">
+## Frontend
 
-### 💻 Tech Stack
+<p align="left">
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/>
 
-<div>
+</p>
 
-**Frontend**
-- React, Vue.js, Angular
-- HTML5, CSS3, JavaScript ES6+
-- Tailwind CSS, Bootstrap
-- Webpack, Vite
+## Backend
 
-</div>
+<p align="left">
 
-<div>
+<img src="https://skillicons.dev/icons?i=python,django,flask"/>
 
-**Development**
-- VS Code, Chrome DevTools
-- Git & GitHub
-- npm, Yarn
-- Performance Optimization
+</p>
 
-</div>
+## Database
 
-</div>
+<p align="left">
 
-### ✨ Key Skills
+<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
+</p>
 
-<span style="background: #00D9FF; color: #000; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s infinite;">Responsive Design</span>
+## Cloud & DevOps
 
-<span style="background: #00D9FF; color: #000; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.2s infinite;">SPA Development</span>
+<p align="left">
 
-<span style="background: #00D9FF; color: #000; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.4s infinite;">API Integration</span>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
 
-<span style="background: #00D9FF; color: #000; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.6s infinite;">State Management</span>
+</p>
 
-<span style="background: #00D9FF; color: #000; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.8s infinite;">Accessibility</span>
+## Data Analytics
 
-</div>
+<p align="left">
 
-### 🎨 Featured Projects
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<div style="margin-top: 15px; background: rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 8px; animation: fadeIn 1.5s ease-in;">
+</p>
 
-**🎵 Music Web Application**
-- [Repository](https://github.com/dileeproxx44-cpu/Music)
-- Interactive music player with responsive design
-- Tech: HTML5, CSS3, JavaScript
-- Features: Cross-browser compatibility, Modern UI
-
-</div>
-
-</div>
-
----
-
-# <div align="center" style="color: #FF6B6B; animation: bounce 1s infinite;">🔧 ROLE 2: BACKEND ENGINEER (Django + AWS)</div>
-
-<div style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.05) 0%, rgba(255, 160, 122, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 5px solid #FF6B6B; animation: slideInRight 0.8s ease-out;">
-
-### 🛠️ Tech Stack
-
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px;">
-
-<div>
-
-**Backend**
-- Python 3.x
-- Django & DRF
-- Celery
-- Redis
-
-</div>
-
-<div>
-
-**AWS Services**
-- EC2, Lambda
-- S3, RDS
-- ElastiCache
-- CloudFront
-
-</div>
-
-<div>
-
-**DevOps**
-- Docker
-- Kubernetes
-- Git/GitHub
-- CI/CD
-
-</div>
-
-</div>
-
-### 🚀 Expertise
-
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
-
-<span style="background: #FF6B6B; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s infinite;">RESTful APIs</span>
-
-<span style="background: #FF6B6B; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.2s infinite;">Database Design</span>
-
-<span style="background: #FF6B6B; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.4s infinite;">Cloud Infrastructure</span>
-
-<span style="background: #FF6B6B; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.6s infinite;">Authentication</span>
-
-<span style="background: #FF6B6B; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.8s infinite;">Security</span>
-
-</div>
-
-### 📊 Proficiency Matrix
-
-| Skill | Level | Experience |
-|-------|-------|------------|
-| Python | ⭐⭐⭐⭐⭐ | Production-ready |
-| Django | ⭐⭐⭐⭐⭐ | Full-stack apps |
-| AWS | ⭐⭐⭐⭐ | Multi-service |
-| PostgreSQL | ⭐⭐⭐⭐ | Database design |
-| REST APIs | ⭐⭐⭐⭐⭐ | Enterprise-level |
-
-</div>
-
----
-
-# <div align="center" style="color: #4ECDC4; animation: bounce 1s infinite;">📊 ROLE 3: DATA ANALYST</div>
-
-<div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.05) 0%, rgba(100, 230, 220, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 5px solid #4ECDC4; animation: slideInLeft 0.8s ease-out;">
-
-### 📈 Tech Stack
-
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px;">
-
-<div>
-
-**Programming**
-- Python
-- SQL
-- Excel
-
-</div>
-
-<div>
-
-**Libraries**
 - Pandas
 - NumPy
-- Scikit-learn
-
-</div>
-
-<div>
-
-**Visualization**
-- Matplotlib
-- Seaborn
+- Scikit-Learn
 - Tableau
+- Power BI
+- SQL
 
-</div>
+---
 
-</div>
+# 📊 GitHub Statistics
 
-### 💡 Core Competencies
+<div align="center">
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dileeproxx44-cpu&show_icons=true&theme=tokyonight"/>
 
-<span style="background: #4ECDC4; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s infinite;">Data Cleaning</span>
-
-<span style="background: #4ECDC4; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.2s infinite;">EDA</span>
-
-<span style="background: #4ECDC4; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.4s infinite;">SQL Queries</span>
-
-<span style="background: #4ECDC4; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.6s infinite;">Visualization</span>
-
-<span style="background: #4ECDC4; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.8s infinite;">Analytics</span>
-
-</div>
-
-### 🎯 Featured Project
-
-<div style="margin-top: 15px; background: rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 8px; animation: fadeIn 1.5s ease-in;">
-
-**🏥 Diabetes Early Warning System**
-- [Repository](https://github.com/dileeproxx44-cpu/Diabetes-early-warning-system)
-- Health data analysis with predictive modeling
-- Tech: Python, Jupyter, Pandas, Scikit-learn
-- Skills: EDA, Statistical Analysis, Machine Learning
-
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dileeproxx44-cpu&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# <div align="center" style="animation: slideInLeft 0.8s ease-out;">📚 Learning Journey</div>
+# 🔥 GitHub Streak
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; margin: 20px auto; width: 90%;">
+<div align="center">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; animation: fadeIn 1.2s ease-in;">
-  <h4 style="color: #00D9FF; margin-top: 0;">✅ Completed</h4>
-  <ul style="color: #fff; font-size: 12px; margin: 0; padding-left: 20px;">
-    <li>Web Development</li>
-    <li>Python Programming</li>
-    <li>Django Framework</li>
-    <li>AWS Services</li>
-    <li>Data Analysis</li>
-  </ul>
-</div>
-
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 10px; animation: fadeIn 1.4s ease-in;">
-  <h4 style="color: #fff; margin-top: 0;">📚 Currently Learning</h4>
-  <ul style="color: #fff; font-size: 12px; margin: 0; padding-left: 20px;">
-    <li>Advanced AWS</li>
-    <li>Machine Learning</li>
-    <li>Tableau/Power BI</li>
-    <li>Time Series</li>
-    <li>Statistics</li>
-  </ul>
-</div>
-
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 10px; animation: fadeIn 1.6s ease-in;">
-  <h4 style="color: #fff; margin-top: 0;">🎯 Future Goals</h4>
-  <ul style="color: #fff; font-size: 12px; margin: 0; padding-left: 20px;">
-    <li>AWS Certification</li>
-    <li>ML Engineering</li>
-    <li>Data Science</li>
-    <li>Microservices</li>
-    <li>DevOps</li>
-  </ul>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dileeproxx44-cpu&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# <div align="center" style="animation: slideInRight 0.8s ease-out;">💼 Services & Capabilities</div>
+# 🏆 GitHub Trophies
 
-<table align="center" style="border-collapse: collapse; width: 95%; margin: 20px auto; animation: fadeIn 1.2s ease-in;">
-<tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
-  <td style="padding: 20px; border: 2px solid #00D9FF; border-radius: 8px 0 0 0; animation: slideInLeft 0.8s ease-out;">
-    <h3 style="color: #00D9FF; margin-top: 0;">🌐 Web Development</h3>
-    <ul style="color: #fff; text-align: left; margin: 0; padding-left: 20px;">
-      <li>Responsive Applications</li>
-      <li>Frontend Development</li>
-      <li>UI/UX Implementation</li>
-      <li>API Integration</li>
-      <li>Performance Optimization</li>
-    </ul>
-  </td>
-  <td style="padding: 20px; border: 2px solid #FF6B6B; animation: slideInLeft 0.9s ease-out;">
-    <h3 style="color: #FF6B6B; margin-top: 0;">🔧 Backend Engineering</h3>
-    <ul style="color: #fff; text-align: left; margin: 0; padding-left: 20px;">
-      <li>Django Development</li>
-      <li>REST API Design</li>
-      <li>AWS Infrastructure</li>
-      <li>Database Design</li>
-      <li>System Architecture</li>
-    </ul>
-  </td>
-  <td style="padding: 20px; border: 2px solid #4ECDC4; border-radius: 0 8px 0 0; animation: slideInLeft 1s ease-out;">
-    <h3 style="color: #4ECDC4; margin-top: 0;">📊 Data Analytics</h3>
-    <ul style="color: #fff; text-align: left; margin: 0; padding-left: 20px;">
-      <li>Data Cleaning</li>
-      <li>EDA & Analysis</li>
-      <li>SQL Optimization</li>
-      <li>Dashboard Creation</li>
-      <li>Business Intelligence</li>
-    </ul>
-  </td>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dileeproxx44-cpu&theme=algolia&column=4"/>
+
+</div>
+
+---
+
+# 💼 Featured Projects
+
+## 🏥 Diabetes Early Warning System
+
+### Tech Stack
+
+Python • Django • Pandas • Machine Learning
+
+### Features
+
+✔ Diabetes Prediction
+
+✔ Health Data Analysis
+
+✔ Machine Learning Model
+
+✔ Visualization Dashboard
+
+🔗 Repository:
+https://github.com/dileeproxx44-cpu/Diabetes-early-warning-system
+
+---
+
+## 🎵 Music Web Application
+
+### Tech Stack
+
+HTML • CSS • JavaScript
+
+### Features
+
+✔ Responsive Design
+
+✔ Interactive Music Player
+
+✔ Modern User Interface
+
+✔ Mobile Friendly
+
+🔗 Repository:
+https://github.com/dileeproxx44-cpu/Music
+
+---
+
+# 📈 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dileeproxx44-cpu&theme=react-dark"/>
+
+</div>
+
+---
+
+# 🎯 Professional Expertise
+
+<table>
+<tr>
+<td align="center">
+
+### 🌐 Frontend
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React
+
+Bootstrap
+
+</td>
+
+<td align="center">
+
+### ⚙ Backend
+
+Python
+
+Django
+
+REST APIs
+
+Authentication
+
+PostgreSQL
+
+</td>
+
+<td align="center">
+
+### ☁ Cloud
+
+AWS EC2
+
+AWS S3
+
+AWS RDS
+
+Cloud Deployment
+
+Linux
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# <div align="center" style="animation: slideInLeft 0.8s ease-out;">📊 GitHub Portfolio</div>
+# 📚 Current Focus
 
-<div style="background: linear-gradient(135deg, rgba(100, 150, 255, 0.1) 0%, rgba(150, 100, 255, 0.1) 100%); padding: 20px; border-radius: 10px; border: 2px dashed #00D9FF; animation: glow 2s infinite; margin: 20px auto; width: 90%;">
+🚀 Full Stack Development
 
-**Repository Statistics**
-- 📁 **Total Repositories:** 3
-- 💻 **Primary Languages:** Python, HTML, JavaScript
-- 🎯 **Active Projects:** 2+
-- 📈 **Data Analysis Projects:** 1
+☁ AWS Cloud Solutions
 
-### Featured Repositories
+📊 Data Analytics
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 15px;">
+🤖 Machine Learning
 
-<div style="background: rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 8px; border-left: 4px solid #00D9FF; animation: slideInLeft 0.8s ease-out;">
-  <strong style="color: #00D9FF;">🏥 Diabetes Early Warning</strong>
-  <div style="color: #fff; font-size: 12px; margin-top: 10px;">
-    Python • Data Analysis • ML<br/>
-    9,492 KB • Health Informatics
-  </div>
-</div>
-
-<div style="background: rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 8px; border-left: 4px solid #FFD700; animation: slideInRight 0.8s ease-out;">
-  <strong style="color: #FFD700;">🎵 Music Web Application</strong>
-  <div style="color: #fff; font-size: 12px; margin-top: 10px;">
-    HTML • CSS • JavaScript<br/>
-    Frontend Development
-  </div>
-</div>
-
-</div>
-
-</div>
+🏗 System Design
 
 ---
 
-# <div align="center" style="color: #00D9FF; animation: bounce 1s infinite;">🔗 Connect With Me</div>
+# 🌍 Connect With Me
 
-<div align="center" style="margin: 20px 0; animation: fadeIn 1.2s ease-in;">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/dileep-kumar-routhu-1649b4330" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 30px; border-radius: 25px; text-decoration: none; margin: 10px; display: inline-block; font-weight: bold; transition: transform 0.3s; animation: pulse 1.5s infinite;">
-  💼 LinkedIn
+<a href="https://www.linkedin.com/in/dileep-kumar-routhu-1649b4330">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/dileeproxx44-cpu" style="background: linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%); color: white; padding: 12px 30px; border-radius: 25px; text-decoration: none; margin: 10px; display: inline-block; font-weight: bold; transition: transform 0.3s; animation: pulse 1.5s 0.2s infinite;">
-  🐙 GitHub
+<a href="https://github.com/dileeproxx44-cpu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:dileeproxx44@gmail.com" style="background: linear-gradient(135deg, #4ECDC4 0%, #44A08D 100%); color: white; padding: 12px 30px; border-radius: 25px; text-decoration: none; margin: 10px; display: inline-block; font-weight: bold; transition: transform 0.3s; animation: pulse 1.5s 0.4s infinite;">
-  📧 Email
+<a href="mailto:dileeproxx44@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# <div align="center" style="animation: slideInRight 0.8s ease-out;">🏆 What Sets Me Apart</div>
+<div align="center">
 
-<div align="center" style="background: linear-gradient(135deg, #FFD700 0%, #FF8C00 100%); padding: 25px; border-radius: 15px; margin: 20px auto; width: 90%; animation: glow 2s infinite;">
+## 🚀 Open To Work
 
-<div style="color: #000; font-weight: bold;">
+### Full Stack Developer
 
-1️⃣ **Versatility** - Across Frontend, Backend & Data  
-2️⃣ **Cloud-Native** - AWS Expertise & Experience  
-3️⃣ **Data-Driven** - Analytics & Insights  
-4️⃣ **Problem Solver** - Multi-perspective Approach  
-5️⃣ **Continuous Learner** - Always Improving  
-6️⃣ **Professional** - Clear Communication & Docs
+### Python Django Developer
 
-</div>
+### Backend Engineer
 
-</div>
+### Data Analyst
 
----
-
-<div align="center" style="margin: 30px 0; animation: fadeIn 1.5s ease-in;">
-
-<div style="color: #00D9FF; font-size: 14px; font-weight: bold;">
-  🚀 Open to Opportunities | 💼 Available for Freelance | 🤝 Ready for Collaboration
-</div>
-
-<div style="color: #888; font-size: 12px; margin-top: 10px;">
-  <strong>Last Updated:</strong> May 2026
-</div>
+⭐ If you like my work, consider giving a star to my repositories!
 
 </div>
 
 ---
 
-<div align="center" style="animation: bounce 1s infinite;">
-  <h2 style="color: #00D9FF;">✨ Happy Coding! 👨‍💻 ✨</h2>
+<div align="center">
+
+# 💙 "Code. Learn. Build. Repeat."
+
 </div>
