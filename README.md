@@ -1,527 +1,506 @@
-# 💼 Dileep Kumar Routhu - Multi-Role Portfolio
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=💼+Dileep+Kumar+Routhu;Full+Stack+Developer+|+Backend+Engineer+|+Data+Analyst;Building+Solutions+Across+Frontend+Backend+%26+Data" alt="Typing SVG" />
+</div>
 
-**Full Stack Developer | Backend Engineer (Django + AWS) | Data Analyst**
+<style>
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes slideInLeft {
+    from {
+      opacity: 0;
+      transform: translateX(-50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes slideInRight {
+    from {
+      opacity: 0;
+      transform: translateX(50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+
+  @keyframes pulse {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.7;
+    }
+  }
+
+  @keyframes glow {
+    0%, 100% {
+      box-shadow: 0 0 5px rgba(0, 217, 255, 0.3);
+    }
+    50% {
+      box-shadow: 0 0 20px rgba(0, 217, 255, 0.6);
+    }
+  }
+
+  @keyframes shimmer {
+    0% {
+      background-position: -1000px 0;
+    }
+    100% {
+      background-position: 1000px 0;
+    }
+  }
+</style>
 
 ---
 
-## 📋 Quick Links
-
-| Link | URL |
-|------|-----|
-| **LinkedIn** | [www.linkedin.com/in/dileep-kumar-routhu-1649b4330](https://www.linkedin.com/in/dileep-kumar-routhu-1649b4330) |
-| **GitHub** | [github.com/dileeproxx44-cpu](https://github.com/dileeproxx44-cpu) |
-| **Portfolio Repository** | [dileeproxx44-cpu/dileeproxx44-cpu](https://github.com/dileeproxx44-cpu/dileeproxx44-cpu) |
+<div align="center" style="animation: fadeIn 1s ease-in;">
+  <img src="https://komarev.com/ghpvc/?username=dileeproxx44-cpu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" style="animation: pulse 2s infinite;" />
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# <div align="center" style="animation: slideInLeft 0.8s ease-out;">💫 About Me</div>
 
-I am a versatile technology professional with expertise across multiple domains:
-- **Web Developer** - Building responsive, interactive web applications
-- **Backend Engineer** - Python, Django, and AWS cloud infrastructure specialist
-- **Data Analyst** - Transforming data into actionable insights
+<div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #00D9FF; animation: glow 2s infinite;">
 
-This combined portfolio demonstrates my ability to work across the full technology stack, from frontend interfaces to backend APIs to data-driven analytics.
+I am a **versatile technology professional** with expertise across multiple domains:
 
----
+<div style="margin-top: 15px;">
 
-## 🎯 Expertise Overview
+🌐 **Web Developer** - Building responsive, interactive web applications  
+🔧 **Backend Engineer** - Python, Django, and AWS cloud infrastructure specialist  
+📊 **Data Analyst** - Transforming data into actionable insights
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    SKILL MATRIX OVERVIEW                        │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  🌐 WEB DEVELOPER                                               │
-│  ├─ Frontend: React, Vue.js, HTML5, CSS3, JavaScript           │
-│  ├─ Responsive Design & UI/UX                                   │
-│  ├─ API Integration & AJAX                                      │
-│  └─ ⭐⭐⭐⭐⭐ Proficiency Level                                  │
-│                                                                 │
-│  🔧 BACKEND ENGINEER (Django + AWS)                             │
-│  ├─ Python: Django, DRF, Celery                                │
-│  ├─ AWS: EC2, S3, RDS, Lambda, Elastic Beanstalk              │
-│  ├─ Databases: PostgreSQL, MySQL, MongoDB                      │
-│  ├─ DevOps: Docker, Git, CI/CD                                 │
-│  └─ ⭐⭐⭐⭐⭐ Proficiency Level                                  │
-│                                                                 │
-│  📊 DATA ANALYST (Basics)                                       │
-│  ├─ Python: Pandas, NumPy, Scikit-learn                         │
-│  ├─ SQL: Query optimization, Complex joins                      │
-│  ├─ Visualization: Matplotlib, Seaborn, Plotly                 │
-│  ├─ Tools: Jupyter Notebook, Tableau, Power BI                 │
-│  └─ ⭐⭐⭐⭐ Proficiency Level                                   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+</div>
+
+This combined portfolio demonstrates my ability to work across the **full technology stack**.
+
+</div>
 
 ---
 
-## 🌐 ROLE 1: WEB DEVELOPER
+# <div align="center" style="animation: slideInRight 0.8s ease-out;">🎯 Expertise Matrix</div>
 
-### Overview
-Full-stack web developer creating modern, responsive, and user-friendly web applications.
+<table align="center" style="border-collapse: collapse; width: 90%; margin: 20px auto; animation: fadeIn 1.2s ease-in;">
+<tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); animation: fadeIn 1.3s ease-in;">
+  <td style="padding: 15px; border: 2px solid #00D9FF; text-align: center; border-radius: 8px 0 0 0; animation: slideInLeft 0.8s ease-out;">
+    <h3 style="color: #00D9FF; margin: 0;">🌐 WEB DEVELOPER</h3>
+    <div style="color: #fff; font-size: 12px; margin-top: 10px;">
+      React • Vue.js • JavaScript • HTML5 • CSS3<br/>
+      <span style="color: #FFD700;">⭐⭐⭐⭐⭐</span>
+    </div>
+  </td>
+  <td style="padding: 15px; border: 2px solid #00D9FF; text-align: center; animation: slideInLeft 0.9s ease-out;">
+    <h3 style="color: #00D9FF; margin: 0;">🔧 BACKEND + AWS</h3>
+    <div style="color: #fff; font-size: 12px; margin-top: 10px;">
+      Django • Python • AWS • PostgreSQL • Docker<br/>
+      <span style="color: #FFD700;">⭐⭐⭐⭐⭐</span>
+    </div>
+  </td>
+  <td style="padding: 15px; border: 2px solid #00D9FF; text-align: center; border-radius: 0 8px 0 0; animation: slideInLeft 1s ease-out;">
+    <h3 style="color: #00D9FF; margin: 0;">📊 DATA ANALYST</h3>
+    <div style="color: #fff; font-size: 12px; margin-top: 10px;">
+      Python • SQL • Pandas • Tableau • Analytics<br/>
+      <span style="color: #FFD700;">⭐⭐⭐⭐</span>
+    </div>
+  </td>
+</tr>
+</table>
+
+---
+
+# <div align="center" style="color: #00D9FF; animation: bounce 1s infinite;">🌐 ROLE 1: WEB DEVELOPER</div>
+
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.05) 0%, rgba(100, 200, 255, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 5px solid #00D9FF; animation: slideInLeft 0.8s ease-out;">
+
+### 💻 Tech Stack
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+
+<div>
+
+**Frontend**
+- React, Vue.js, Angular
+- HTML5, CSS3, JavaScript ES6+
+- Tailwind CSS, Bootstrap
+- Webpack, Vite
+
+</div>
+
+<div>
+
+**Development**
+- VS Code, Chrome DevTools
+- Git & GitHub
+- npm, Yarn
+- Performance Optimization
+
+</div>
+
+</div>
+
+### ✨ Key Skills
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
+
+<span style="background: #00D9FF; color: #000; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s infinite;">Responsive Design</span>
+
+<span style="background: #00D9FF; color: #000; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.2s infinite;">SPA Development</span>
+
+<span style="background: #00D9FF; color: #000; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.4s infinite;">API Integration</span>
+
+<span style="background: #00D9FF; color: #000; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.6s infinite;">State Management</span>
+
+<span style="background: #00D9FF; color: #000; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.8s infinite;">Accessibility</span>
+
+</div>
+
+### 🎨 Featured Projects
+
+<div style="margin-top: 15px; background: rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 8px; animation: fadeIn 1.5s ease-in;">
+
+**🎵 Music Web Application**
+- [Repository](https://github.com/dileeproxx44-cpu/Music)
+- Interactive music player with responsive design
+- Tech: HTML5, CSS3, JavaScript
+- Features: Cross-browser compatibility, Modern UI
+
+</div>
+
+</div>
+
+---
+
+# <div align="center" style="color: #FF6B6B; animation: bounce 1s infinite;">🔧 ROLE 2: BACKEND ENGINEER (Django + AWS)</div>
+
+<div style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.05) 0%, rgba(255, 160, 122, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 5px solid #FF6B6B; animation: slideInRight 0.8s ease-out;">
 
 ### 🛠️ Tech Stack
 
-**Frontend Technologies**
-- Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
-- Frameworks: React, Vue.js, Angular (Basics)
-- Styling: Tailwind CSS, Bootstrap, SASS/SCSS
-- Tools: Webpack, Vite, npm, Yarn
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px;">
 
-**Backend Technologies**
-- Node.js & Express.js
-- REST API development
-- Authentication & Authorization
+<div>
 
-**Development Tools**
-- Code Editor: VS Code
-- Version Control: Git & GitHub
-- Browser DevTools: Chrome, Firefox
-- Build Tools: Webpack, Vite
-
-### 💡 Key Skills
-
-✅ Responsive Web Design (Mobile-First)  
-✅ Single Page Applications (SPA)  
-✅ Component-Based Architecture  
-✅ State Management  
-✅ Asynchronous Programming (Async/Await, Promises)  
-✅ DOM Manipulation & JavaScript Events  
-✅ API Integration & Data Fetching  
-✅ Form Validation & Error Handling  
-✅ Web Performance Optimization  
-✅ Cross-Browser Compatibility  
-✅ Accessibility (A11y) Standards  
-
-### 📁 Featured Web Projects
-
-#### 1. **Music Web Application**
-- **Repository:** [dileeproxx44-cpu/Music](https://github.com/dileeproxx44-cpu/Music)
-- **Live Demo:** Interactive music player
-- **Tech Stack:** HTML5, CSS3, JavaScript
-- **Features:**
-  - Responsive music player interface
-  - Cross-browser compatibility
-  - Clean, modern UI design
-  - Interactive user controls
-- **Skills:** Responsive Design, JavaScript DOM, UI/UX
-
-#### 2. **Diabetes Early Warning System Dashboard**
-- **Repository:** [dileeproxx44-cpu/Diabetes-early-warning-system](https://github.com/dileeproxx44-cpu/Diabetes-early-warning-system)
-- **Tech Stack:** Python, Jupyter Notebook, Data Visualization
-- **Features:**
-  - Interactive health data dashboard
-  - Real-time metrics display
-  - Responsive layout for different devices
-- **Skills:** Frontend Development, Data Visualization, Dashboard Design
-
----
-
-## 🔧 ROLE 2: BACKEND ENGINEER (Django + AWS)
-
-### Overview
-Backend specialist building scalable, secure server-side applications with Django and cloud infrastructure on AWS.
-
-### 🛠️ Tech Stack
-
-**Backend Framework**
+**Backend**
 - Python 3.x
-- Django & Django REST Framework (DRF)
-- Celery for task scheduling
-- Redis for caching
+- Django & DRF
+- Celery
+- Redis
 
-**Databases**
-- PostgreSQL (Primary)
-- MySQL
-- MongoDB
-- Database design & optimization
+</div>
+
+<div>
 
 **AWS Services**
-- **Compute:** EC2, Lambda, Elastic Beanstalk
-- **Storage:** S3, EBS
-- **Database:** RDS, DynamoDB
-- **Networking:** VPC, Route 53, CloudFront
-- **Security:** IAM, Security Groups
-- **Monitoring:** CloudWatch, SNS, SQS
-- **CI/CD:** CodePipeline, CodeDeploy
+- EC2, Lambda
+- S3, RDS
+- ElastiCache
+- CloudFront
 
-**DevOps & Deployment**
-- Docker & Containerization
-- Kubernetes (Basics)
-- Git & GitHub
-- Environment management
+</div>
 
-### 💡 Key Skills
+<div>
 
-**Django Development**
-✅ Model-View-Template (MVT) Architecture  
-✅ Django ORM & Database Queries  
-✅ Django REST Framework API Development  
-✅ User Authentication & Authorization (JWT, OAuth 2.0)  
-✅ Middleware & Custom Decorators  
-✅ Signal Handling & Caching Strategies  
-✅ Celery Task Scheduling  
-✅ Testing with Pytest & Django TestCase  
+**DevOps**
+- Docker
+- Kubernetes
+- Git/GitHub
+- CI/CD
 
-**AWS Infrastructure**
-✅ EC2 Instance Management  
-✅ S3 Bucket Configuration  
-✅ RDS Database Setup & Management  
-✅ Lambda Serverless Functions  
-✅ IAM Roles & Permission Management  
-✅ CloudFormation Templates  
-✅ Auto-Scaling & Load Balancing  
-✅ CloudWatch Monitoring & Logging  
+</div>
 
-**API & Security**
-✅ RESTful API Design  
-✅ CORS & CSRF Protection  
-✅ SQL Injection Prevention  
-✅ Rate Limiting & Throttling  
-✅ Error Handling & Logging  
-✅ API Documentation (Swagger/OpenAPI)  
+</div>
 
-### 📦 Project Architecture Example
+### 🚀 Expertise
 
-```
-Django Backend with AWS Deployment
-├── Project Structure
-│   ├── Django Apps (Models, Views, Serializers)
-│   ├── API Endpoints (REST Framework)
-│   ├── Authentication (JWT/OAuth)
-│   ├── Database Layer (ORM)
-│   └── Business Logic
-├── AWS Infrastructure
-│   ├── EC2 Instances (Application Servers)
-│   ├── RDS (PostgreSQL Database)
-│   ├── S3 (Media/Static Files)
-│   ├── ElastiCache (Redis Caching)
-│   └── CloudFront (CDN)
-└── CI/CD Pipeline
-    ├── Git Push → GitHub
-    ├── CodePipeline Triggers
-    ├── Automated Tests
-    └── Deploy to Elastic Beanstalk
-```
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
 
-### 🚀 Deployment Expertise
+<span style="background: #FF6B6B; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s infinite;">RESTful APIs</span>
 
-- **Elastic Beanstalk:** Multi-environment Django deployments
-- **EC2 + RDS:** Traditional server-based setups
-- **Lambda + API Gateway:** Serverless REST APIs
-- **Docker + ECS:** Containerized applications
-- **Infrastructure as Code:** CloudFormation, Terraform
+<span style="background: #FF6B6B; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.2s infinite;">Database Design</span>
 
-### 📊 Backend Proficiency Matrix
+<span style="background: #FF6B6B; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.4s infinite;">Cloud Infrastructure</span>
+
+<span style="background: #FF6B6B; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.6s infinite;">Authentication</span>
+
+<span style="background: #FF6B6B; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.8s infinite;">Security</span>
+
+</div>
+
+### 📊 Proficiency Matrix
 
 | Skill | Level | Experience |
 |-------|-------|------------|
 | Python | ⭐⭐⭐⭐⭐ | Production-ready |
 | Django | ⭐⭐⭐⭐⭐ | Full-stack apps |
-| PostgreSQL | ⭐⭐⭐⭐ | Database design |
 | AWS | ⭐⭐⭐⭐ | Multi-service |
+| PostgreSQL | ⭐⭐⭐⭐ | Database design |
 | REST APIs | ⭐⭐⭐⭐⭐ | Enterprise-level |
-| Docker | ⭐⭐⭐ | Containerization |
-| Linux/Ubuntu | ⭐⭐⭐⭐ | Server management |
+
+</div>
 
 ---
 
-## 📊 ROLE 3: DATA ANALYST (Basics)
+# <div align="center" style="color: #4ECDC4; animation: bounce 1s infinite;">📊 ROLE 3: DATA ANALYST</div>
 
-### Overview
-Data analyst with foundational knowledge in data analysis, SQL, and visualization, focused on extracting insights from data.
+<div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.05) 0%, rgba(100, 230, 220, 0.05) 100%); padding: 20px; border-radius: 10px; border-left: 5px solid #4ECDC4; animation: slideInLeft 0.8s ease-out;">
 
-### 🛠️ Tech Stack
+### 📈 Tech Stack
 
-**Programming Languages**
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL (PostgreSQL, MySQL)
-- Excel (Advanced formulas, Pivot Tables)
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px;">
 
-**Data Analysis Libraries**
-- **Pandas:** Data manipulation & cleaning
-- **NumPy:** Numerical computations
-- **Scikit-learn:** Machine learning basics
-- **SciPy:** Statistical analysis
+<div>
 
-**Data Visualization**
+**Programming**
+- Python
+- SQL
+- Excel
+
+</div>
+
+<div>
+
+**Libraries**
+- Pandas
+- NumPy
+- Scikit-learn
+
+</div>
+
+<div>
+
+**Visualization**
 - Matplotlib
 - Seaborn
-- Plotly
-- Tableau (Basics)
-- Power BI (Basics)
+- Tableau
 
-**Tools & Platforms**
-- Jupyter Notebook
-- Google Sheets
-- DBeaver / pgAdmin
-- GitHub
+</div>
 
-### 💡 Key Skills
+</div>
 
-**Data Analysis Fundamentals**
-✅ Data Cleaning & Preprocessing  
-✅ Exploratory Data Analysis (EDA)  
-✅ Data Validation & Quality Checks  
-✅ Outlier Detection & Handling  
-✅ Missing Data Imputation  
-✅ Statistical Analysis (Descriptive Stats)  
-✅ Trend Analysis & Pattern Recognition  
-✅ Correlation & Regression Analysis  
+### 💡 Core Competencies
 
-**SQL Proficiency**
-✅ SELECT, WHERE, ORDER BY Clauses  
-✅ JOIN Operations (INNER, LEFT, RIGHT, FULL)  
-✅ GROUP BY & HAVING  
-✅ Aggregate Functions  
-✅ Subqueries & CTEs  
-✅ Window Functions (Basics)  
-✅ Query Optimization  
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
 
-**Data Visualization**
-✅ Chart Selection Best Practices  
-✅ Dashboard Creation  
-✅ Interactive Visualizations  
-✅ Storytelling with Data  
-✅ Report Generation  
-✅ Presentation-Ready Graphics  
+<span style="background: #4ECDC4; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s infinite;">Data Cleaning</span>
 
-**Python for Data Analysis**
-✅ Pandas DataFrames & Series  
-✅ Data Filtering & Transformation  
-✅ Grouping & Aggregation  
-✅ Time Series Analysis (Basics)  
-✅ Statistical Testing  
+<span style="background: #4ECDC4; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.2s infinite;">EDA</span>
 
-### 📈 Featured Data Projects
+<span style="background: #4ECDC4; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.4s infinite;">SQL Queries</span>
 
-#### 1. **Diabetes Early Warning System - Data Analysis**
-- **Repository:** [dileeproxx44-cpu/Diabetes-early-warning-system](https://github.com/dileeproxx44-cpu/Diabetes-early-warning-system)
-- **Tech Stack:** Python, Jupyter Notebook, Pandas, Scikit-learn
-- **Analysis Focus:**
-  - Patient health metrics analysis
-  - Risk factor identification & correlation
-  - Predictive modeling for early warning
-  - Data visualization of trends
-- **Data Processing:**
-  - Dataset cleaning (9,492 KB of data)
-  - Feature engineering
-  - Statistical analysis
-  - Machine learning model training
-- **Key Insights:**
-  - Identified critical health indicators
-  - Risk stratification of patients
-  - Actionable health recommendations
-- **Skills Demonstrated:**
-  - Data cleaning & validation
-  - Exploratory data analysis
-  - Statistical hypothesis testing
-  - Machine learning basics
-  - Data visualization
+<span style="background: #4ECDC4; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.6s infinite;">Visualization</span>
 
-### 📊 Analysis Workflow
+<span style="background: #4ECDC4; color: #fff; padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; animation: pulse 1.5s 0.8s infinite;">Analytics</span>
 
-```
-Data Analysis Process
-├── 1. Define Business Question
-├── 2. Data Collection & Access
-├── 3. Data Cleaning & Preprocessing
-├── 4. Exploratory Data Analysis (EDA)
-├── 5. Statistical Analysis
-├── 6. Data Visualization
-├── 7. Insights & Recommendations
-└── 8. Report & Presentation
-```
+</div>
 
-### 📈 Sample Analyses I Can Perform
+### 🎯 Featured Project
 
-| Analysis Type | Tools | Use Case |
-|--------------|-------|----------|
-| **Descriptive** | Pandas, SQL | Historical data summaries |
-| **Exploratory** | EDA, Visualization | Pattern discovery |
-| **Trend Analysis** | Time Series, Matplotlib | YoY/MoM growth |
-| **Correlation** | NumPy, Seaborn | Variable relationships |
-| **Predictive** | Scikit-learn | Forecasting basics |
-| **Segmentation** | Clustering | Customer/Data grouping |
+<div style="margin-top: 15px; background: rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 8px; animation: fadeIn 1.5s ease-in;">
 
-### 📊 Data Analyst Proficiency Matrix
+**🏥 Diabetes Early Warning System**
+- [Repository](https://github.com/dileeproxx44-cpu/Diabetes-early-warning-system)
+- Health data analysis with predictive modeling
+- Tech: Python, Jupyter, Pandas, Scikit-learn
+- Skills: EDA, Statistical Analysis, Machine Learning
 
-| Skill | Level | Experience |
-|-------|-------|------------|
-| Python | ⭐⭐⭐⭐ | Data analysis |
-| SQL | ⭐⭐⭐⭐ | Query writing |
-| Excel | ⭐⭐⭐⭐ | Advanced analysis |
-| Data Visualization | ⭐⭐⭐⭐ | Dashboard creation |
-| Statistical Analysis | ⭐⭐⭐ | Basic testing |
-| Tableau | ⭐⭐⭐ | Dashboard basics |
-| Machine Learning | ⭐⭐ | Foundational |
+</div>
+
+</div>
 
 ---
 
-## 🎓 Education & Learning
+# <div align="center" style="animation: slideInLeft 0.8s ease-out;">📚 Learning Journey</div>
 
-### Completed ✓
-- Web Development Fundamentals
-- Python Programming
-- Django Framework Development
-- AWS Cloud Services
-- SQL & Database Design
-- Data Analysis with Python
-- Exploratory Data Analysis
-- Health Data Analytics Project
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; margin: 20px auto; width: 90%;">
 
-### Currently Learning 📚
-- Advanced AWS Architecture
-- Advanced SQL (Window Functions, CTEs)
-- Machine Learning Advanced Topics
-- Tableau/Power BI Advanced
-- Time Series Analysis
-- Statistical Hypothesis Testing
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; animation: fadeIn 1.2s ease-in;">
+  <h4 style="color: #00D9FF; margin-top: 0;">✅ Completed</h4>
+  <ul style="color: #fff; font-size: 12px; margin: 0; padding-left: 20px;">
+    <li>Web Development</li>
+    <li>Python Programming</li>
+    <li>Django Framework</li>
+    <li>AWS Services</li>
+    <li>Data Analysis</li>
+  </ul>
+</div>
 
-### Future Goals 🎯
-- AWS Solutions Architect Certification
-- Machine Learning Engineering
-- Advanced Data Science
-- Microservices Architecture
-- DevOps & Cloud Infrastructure
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 10px; animation: fadeIn 1.4s ease-in;">
+  <h4 style="color: #fff; margin-top: 0;">📚 Currently Learning</h4>
+  <ul style="color: #fff; font-size: 12px; margin: 0; padding-left: 20px;">
+    <li>Advanced AWS</li>
+    <li>Machine Learning</li>
+    <li>Tableau/Power BI</li>
+    <li>Time Series</li>
+    <li>Statistics</li>
+  </ul>
+</div>
 
----
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 10px; animation: fadeIn 1.6s ease-in;">
+  <h4 style="color: #fff; margin-top: 0;">🎯 Future Goals</h4>
+  <ul style="color: #fff; font-size: 12px; margin: 0; padding-left: 20px;">
+    <li>AWS Certification</li>
+    <li>ML Engineering</li>
+    <li>Data Science</li>
+    <li>Microservices</li>
+    <li>DevOps</li>
+  </ul>
+</div>
 
-## 💼 Services & Capabilities
-
-### As a Web Developer
-- Build responsive web applications
-- Frontend development (React, Vue.js)
-- UI/UX implementation
-- API integration
-- Performance optimization
-- Cross-browser testing
-
-### As a Backend Engineer
-- Django application development
-- REST API design & implementation
-- AWS infrastructure setup
-- Database design & optimization
-- Deployment & DevOps
-- System architecture
-- Performance tuning
-
-### As a Data Analyst
-- Data cleaning & preprocessing
-- Exploratory data analysis
-- SQL query optimization
-- Dashboard & report creation
-- Statistical analysis
-- Business intelligence
-- Data-driven insights
+</div>
 
 ---
 
-## 📊 GitHub Portfolio
+# <div align="center" style="animation: slideInRight 0.8s ease-out;">💼 Services & Capabilities</div>
 
-### Repository Statistics
-- **Total Public Repositories:** 3
-- **Primary Languages:** HTML, Python, JavaScript
-- **Active Projects:** 2
-- **Data Analysis Projects:** 1
+<table align="center" style="border-collapse: collapse; width: 95%; margin: 20px auto; animation: fadeIn 1.2s ease-in;">
+<tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+  <td style="padding: 20px; border: 2px solid #00D9FF; border-radius: 8px 0 0 0; animation: slideInLeft 0.8s ease-out;">
+    <h3 style="color: #00D9FF; margin-top: 0;">🌐 Web Development</h3>
+    <ul style="color: #fff; text-align: left; margin: 0; padding-left: 20px;">
+      <li>Responsive Applications</li>
+      <li>Frontend Development</li>
+      <li>UI/UX Implementation</li>
+      <li>API Integration</li>
+      <li>Performance Optimization</li>
+    </ul>
+  </td>
+  <td style="padding: 20px; border: 2px solid #FF6B6B; animation: slideInLeft 0.9s ease-out;">
+    <h3 style="color: #FF6B6B; margin-top: 0;">🔧 Backend Engineering</h3>
+    <ul style="color: #fff; text-align: left; margin: 0; padding-left: 20px;">
+      <li>Django Development</li>
+      <li>REST API Design</li>
+      <li>AWS Infrastructure</li>
+      <li>Database Design</li>
+      <li>System Architecture</li>
+    </ul>
+  </td>
+  <td style="padding: 20px; border: 2px solid #4ECDC4; border-radius: 0 8px 0 0; animation: slideInLeft 1s ease-out;">
+    <h3 style="color: #4ECDC4; margin-top: 0;">📊 Data Analytics</h3>
+    <ul style="color: #fff; text-align: left; margin: 0; padding-left: 20px;">
+      <li>Data Cleaning</li>
+      <li>EDA & Analysis</li>
+      <li>SQL Optimization</li>
+      <li>Dashboard Creation</li>
+      <li>Business Intelligence</li>
+    </ul>
+  </td>
+</tr>
+</table>
+
+---
+
+# <div align="center" style="animation: slideInLeft 0.8s ease-out;">📊 GitHub Portfolio</div>
+
+<div style="background: linear-gradient(135deg, rgba(100, 150, 255, 0.1) 0%, rgba(150, 100, 255, 0.1) 100%); padding: 20px; border-radius: 10px; border: 2px dashed #00D9FF; animation: glow 2s infinite; margin: 20px auto; width: 90%;">
+
+**Repository Statistics**
+- 📁 **Total Repositories:** 3
+- 💻 **Primary Languages:** Python, HTML, JavaScript
+- 🎯 **Active Projects:** 2+
+- 📈 **Data Analysis Projects:** 1
 
 ### Featured Repositories
 
-1. **Diabetes Early Warning System**
-   - Language: Jupyter Notebook, Python
-   - Size: 9,492 KB
-   - Focus: Data Analysis & Health Informatics
-   - URL: [github.com/dileeproxx44-cpu/Diabetes-early-warning-system](https://github.com/dileeproxx44-cpu/Diabetes-early-warning-system)
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 15px;">
 
-2. **Music Web Application**
-   - Language: HTML, CSS, JavaScript
-   - Focus: Frontend Web Development
-   - URL: [github.com/dileeproxx44-cpu/Music](https://github.com/dileeproxx44-cpu/Music)
+<div style="background: rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 8px; border-left: 4px solid #00D9FF; animation: slideInLeft 0.8s ease-out;">
+  <strong style="color: #00D9FF;">🏥 Diabetes Early Warning</strong>
+  <div style="color: #fff; font-size: 12px; margin-top: 10px;">
+    Python • Data Analysis • ML<br/>
+    9,492 KB • Health Informatics
+  </div>
+</div>
 
-3. **Portfolio Repository**
-   - Language: Markdown, Documentation
-   - Focus: Portfolio & Professional Presence
-   - URL: [github.com/dileeproxx44-cpu/dileeproxx44-cpu](https://github.com/dileeproxx44-cpu/dileeproxx44-cpu)
+<div style="background: rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 8px; border-left: 4px solid #FFD700; animation: slideInRight 0.8s ease-out;">
+  <strong style="color: #FFD700;">🎵 Music Web Application</strong>
+  <div style="color: #fff; font-size: 12px; margin-top: 10px;">
+    HTML • CSS • JavaScript<br/>
+    Frontend Development
+  </div>
+</div>
 
----
+</div>
 
-## 🔗 Professional Links
-
-| Platform | URL |
-|----------|-----|
-| **LinkedIn** | [www.linkedin.com/in/dileep-kumar-routhu-1649b4330](https://www.linkedin.com/in/dileep-kumar-routhu-1649b4330) |
-| **GitHub** | [github.com/dileeproxx44-cpu](https://github.com/dileeproxx44-cpu) |
-| **GitHub Profile** | [github.com/dileeproxx44-cpu](https://github.com/dileeproxx44-cpu) |
-| **Email** | Available upon request |
+</div>
 
 ---
 
-## 📞 Get in Touch
+# <div align="center" style="color: #00D9FF; animation: bounce 1s infinite;">🔗 Connect With Me</div>
 
-I'm open to opportunities and collaborations across all three domains:
-- 🌐 **Web Development Projects**
-- 🔧 **Backend Engineering with Django & AWS**
-- 📊 **Data Analysis & Business Intelligence**
+<div align="center" style="margin: 20px 0; animation: fadeIn 1.2s ease-in;">
 
-**Connect with me:**
-- LinkedIn: [www.linkedin.com/in/dileep-kumar-routhu-1649b4330](https://www.linkedin.com/in/dileep-kumar-routhu-1649b4330)
-- GitHub: [github.com/dileeproxx44-cpu](https://github.com/dileeproxx44-cpu)
+<a href="https://www.linkedin.com/in/dileep-kumar-routhu-1649b4330" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 30px; border-radius: 25px; text-decoration: none; margin: 10px; display: inline-block; font-weight: bold; transition: transform 0.3s; animation: pulse 1.5s infinite;">
+  💼 LinkedIn
+</a>
 
----
+<a href="https://github.com/dileeproxx44-cpu" style="background: linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%); color: white; padding: 12px 30px; border-radius: 25px; text-decoration: none; margin: 10px; display: inline-block; font-weight: bold; transition: transform 0.3s; animation: pulse 1.5s 0.2s infinite;">
+  🐙 GitHub
+</a>
 
-## 🎯 Quick Start Guide for Employers
+<a href="mailto:dileeproxx44@gmail.com" style="background: linear-gradient(135deg, #4ECDC4 0%, #44A08D 100%); color: white; padding: 12px 30px; border-radius: 25px; text-decoration: none; margin: 10px; display: inline-block; font-weight: bold; transition: transform 0.3s; animation: pulse 1.5s 0.4s infinite;">
+  📧 Email
+</a>
 
-### Evaluating My Skills
-
-**For Web Development Role:**
-- Review: [Music Project](https://github.com/dileeproxx44-cpu/Music)
-- Look for: Responsive design, clean code, UI implementation
-
-**For Backend Engineer Role (Django + AWS):**
-- Review: [GitHub Projects](https://github.com/dileeproxx44-cpu)
-- Look for: API design, database architecture, deployment experience
-
-**For Data Analyst Role:**
-- Review: [Diabetes Early Warning System](https://github.com/dileeproxx44-cpu/Diabetes-early-warning-system)
-- Look for: Data cleaning, EDA, visualizations, insights
+</div>
 
 ---
 
-## 📈 Career Highlights
+# <div align="center" style="animation: slideInRight 0.8s ease-out;">🏆 What Sets Me Apart</div>
 
-✅ Full-stack development experience  
-✅ Cloud infrastructure management (AWS)  
-✅ Data analysis & business intelligence  
-✅ Health informatics project experience  
-✅ Open-source contributions  
-✅ Continuous learner & tech enthusiast  
+<div align="center" style="background: linear-gradient(135deg, #FFD700 0%, #FF8C00 100%); padding: 25px; border-radius: 15px; margin: 20px auto; width: 90%; animation: glow 2s infinite;">
 
----
+<div style="color: #000; font-weight: bold;">
 
-## 🏆 What Sets Me Apart
+1️⃣ **Versatility** - Across Frontend, Backend & Data  
+2️⃣ **Cloud-Native** - AWS Expertise & Experience  
+3️⃣ **Data-Driven** - Analytics & Insights  
+4️⃣ **Problem Solver** - Multi-perspective Approach  
+5️⃣ **Continuous Learner** - Always Improving  
+6️⃣ **Professional** - Clear Communication & Docs
 
-1. **Versatility:** Competent across frontend, backend, and data analysis
-2. **Cloud-Native:** AWS certified knowledge and practical experience
-3. **Data-Driven:** Ability to analyze and visualize data for insights
-4. **Problem Solver:** Approach challenges from multiple perspectives
-5. **Continuous Learner:** Always updating skills with latest technologies
-6. **Documentation:** Clear, professional documentation and communication
+</div>
+
+</div>
 
 ---
 
-*Last Updated: May 2026*  
-**Status:** 🚀 Open to Opportunities | 💼 Available for Freelance | 🤝 Ready for Collaboration
+<div align="center" style="margin: 30px 0; animation: fadeIn 1.5s ease-in;">
+
+<div style="color: #00D9FF; font-size: 14px; font-weight: bold;">
+  🚀 Open to Opportunities | 💼 Available for Freelance | 🤝 Ready for Collaboration
+</div>
+
+<div style="color: #888; font-size: 12px; margin-top: 10px;">
+  <strong>Last Updated:</strong> May 2026
+</div>
+
+</div>
 
 ---
 
-## 📚 Resources I Recommend
-
-- **Web Dev:** MDN Web Docs, CSS-Tricks, DevTools Mastery
-- **Backend:** Django Documentation, AWS Documentation, Real Python
-- **Data:** Kaggle, Mode Analytics, DataCamp
-
----
-
-**Happy coding! 👨‍💻**
+<div align="center" style="animation: bounce 1s infinite;">
+  <h2 style="color: #00D9FF;">✨ Happy Coding! 👨‍💻 ✨</h2>
+</div>
